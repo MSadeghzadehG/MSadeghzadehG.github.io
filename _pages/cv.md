@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My CV :   [Download](https://github.com/MSadeghzadehG/MsadeghzadehG.github.io/files/Mahdi_Sadeghzadeh_CV.pdf)
+My CV :   [Download](https://github.com/MSadeghzadehG/MSadeghzadehG.github.io/raw/master/files/Mahdi_Sadeghzadeh_CV.pdf)
 
 <!-- 
 Education
